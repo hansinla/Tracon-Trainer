@@ -1,0 +1,696 @@
+Delta Air Lines,DL677,GUA,Guatemala City,00:01
+ABX Air,GB2203,MEX,Mexico City,00:05
+American Airlines,AA2400,DFW,Dallas,00:10
+Lan Peru,LP2605,LIM,Lima,00:15
+United Airlines,UA1614,IAH,Houston,00:17
+Asiana Airlines,OZ203,ICN,Seoul,00:20
+Aeromexico,AM785,GDL,Guadalajara,00:23
+US Airways,US445,CLT,Charlotte,00:25
+US Airways,US637,PHL,Philadelphia,00:46
+American Airlines,AA2406,DFW,Dallas,00:50
+Delta Air Lines,DL573,GDL,Guadalajara,00:55
+Alaska Airlines,AS256,MEX,Mexico City,00:55
+EVA Air,BR1,TPE,Taipei,01:00
+China Airlines,CI7,TPE,Taipei,01:05
+Cathay Pacific Airways,CX881,HKG,Hong Kong,01:15
+United Airlines,UA1536,BJX,Leon/Guanajuato,01:17
+EVA Air,BR15,TPE,Taipei,01:20
+TACA,TA521,SAL,San Salvador,01:30
+LACSA,LR641,GUA,Guatemala City,01:30
+Air China,CA984,PEK,Beijing,01:40
+Alaska Airlines,AS242,GDL,Guadalajara,01:55
+Kalitta Air,K4368,HNL,Honolulu,02:30
+Aerounion,6R303,MEX,Mexico City,02:30
+Cathay Pacific Airways,CX91,ANC,Anchorage,03:50
+Nippon Cargo,KZ109,SFO,San Francisco,05:05
+American Airlines,AA1060,ORD,Chicago,05:40
+United Airlines,UA495,DEN,Denver,05:45
+American Airlines,AA1290,MIA,Miami,05:55
+United Airlines,UA414,SFO,San Francisco,06:05
+COPA,CM361,PTY,Panama City,06:06
+Southwest Airlines,WN1006,HOU,Houston,06:10
+United Airlines,UA1100,LAS,Las Vegas,06:10
+Southwest Airlines,WN650,DEN,Denver,06:15
+Southwest Airlines,WN1362,LAS,Las Vegas,06:20
+Spirit Airlines,NK562,LAS,Las Vegas,06:25
+US Airways,US425,PHX,Phoenix,06:25
+SkyWest Airlines,OO6320,SAN,San Diego,06:27
+Delta Air Lines,DL1969,ATL,Atlanta,06:30
+American Airlines,AA2420,DFW,Dallas,06:30
+US Airways,US700,PHL,Philadelphia,06:30
+Southwest Airlines,WN2786,SJC,San Jose,06:30
+Southwest Airlines,WN828,MDW,Chicago,06:35
+SkyWest Airlines,OO4485,SEA,Seattle,06:45
+Delta Air Lines,DL1212,MSP,Minneapolis,06:45
+Delta Air Lines,DL1762,JFK,New York,06:45
+Southwest Airlines,WN3319,PHX,Phoenix,06:45
+United Airlines,UA556,DEN,Denver,06:50
+United Airlines,UA1266,SFO,San Francisco,06:55
+Southwest Airlines,WN1718,MCI,Kansas City,06:55
+United Airlines,UA1174,ORD,Chicago,06:58
+Air Canada,AC551,YVR,Vancouver,07:00
+Virgin America,VX534,SJC,San Jose,07:00
+Southwest Airlines,WN159,RNO,Reno,07:00
+American Airlines,AA2424,DFW,Dallas,07:00
+Virgin America,VX925,SFO,San Francisco,07:00
+United Airlines,UA220,IAH,Houston,07:00
+American Airlines,AA118,JFK,New York,07:00
+Frontier Airlines,F9416,DEN,Denver,07:00
+American Airlines,AA222,BOS,Boston,07:00
+JetBlue,B624,JFK,New York,07:00
+Delta Air Lines,DL1906,DTW,Detroit,07:00
+Southwest Airlines,WN3765,SMF,Sacramento,07:00
+SkyWest Airlines,OO4457,OAK,Oakland,07:05
+SkyWest Airlines,OO6466,SLC,Salt Lake City,07:05
+Southwest Airlines,WN472,ABQ,Albuquerque,07:05
+Aeromexico,AM18,MEX,Mexico City,07:05
+SkyWest Airlines,OO4655,SJC,San Jose,07:05
+Southwest Airlines,WN2963,OAK,Oakland,07:10
+Air Canada,AC569,YYC,Calgary,07:10
+SkyWest Airlines,OO4658,SMF,Sacramento,07:15
+Southwest Airlines,WN3320,SLC,Salt Lake City,07:15
+SkyWest Airlines,OO5377,CLD,San Diego,07:16
+American Airlines,AA1006,AUS,Austin,07:20
+US Airways,US704,CLT,Charlotte,07:25
+Virgin America,VX781,SEA,Seattle,07:30
+Delta Air Lines,DL1451,SLC,Salt Lake City,07:30
+Virgin America,VX290,CUN,Cancun,07:30
+American Airlines,AA2426,DFW,Dallas,07:30
+TACA,TA529,SAL,San Salvador,07:35
+American Airlines,AA108,SFO,San Francisco,07:35
+Virgin America,VX404,JFK,New York,07:35
+SkyWest Airlines,OO2645,SAN,San Diego,07:35
+Delta Air Lines,DL2155,ATL,Atlanta,07:38
+SkyWest Airlines,OO6211,PDX,Portland,07:38
+Alaska Airlines,AS248,GDL,Guadalajara,07:40
+American Eagle,MQ3659,IAH,Houston,07:40
+United Airlines,UA1499,ORD,Chicago,07:42
+United Airlines,UA491,EWR,Newark,07:45
+Southwest Airlines,WN326,SJC,San Jose,07:45
+SkyWest Airlines,OO4500,LAS,Las Vegas,07:47
+SkyWest Airlines,OO2578,FAT,Fresno,07:50
+United Airlines,UA1512,IAD,Washington,07:50
+SkyWest Airlines,OO6472,ABQ,Albuquerque,07:52
+American Airlines,AA2428,DFW,Dallas,07:55
+SkyWest Airlines,OO6499,SJC,San Jose,07:56
+SkyWest Airlines,OO6526,PHX,Phoenix,08:03
+American Airlines,AA1329,RDU,Raleigh/Durham,08:05
+Southwest Airlines,WN3941,OAK,Oakland,08:05
+Alaska Airlines,AS250,MEX,Mexico City,08:05
+Delta Air Lines,DL1197,OGG,Kahului,08:05
+Virgin America,VX124,PHL,Philadelphia,08:05
+SkyWest Airlines,OO5635,SMF,Sacramento,08:05
+American Airlines,AA31,HNL,Honolulu,08:05
+American Airlines,AA240,DCA,Washington,08:10
+Virgin America,VX360,BOS,Boston,08:10
+American Airlines,AA1153,PIT,Pittsburgh,08:10
+American Airlines,AA1192,ORD,Chicago,08:10
+Alaska Airlines,AS459,SEA,Seattle,08:10
+United Airlines,UA1535,GDL,Guadalajara,08:12
+Southwest Airlines,WN2587,PHX,Phoenix,08:15
+Southwest Airlines,WN443,SFO,San Francisco,08:15
+Delta Air Lines,DL2116,MSP,Minneapolis,08:15
+Delta Air Lines,DL1760,CVG,Hebron,08:15
+United Airlines,UA536,JFK,New York,08:20
+SkyWest Airlines,OO4440,PHX,Phoenix,08:20
+Delta Air Lines,DL1552,MSY,New Orleans,08:20
+United Airlines,UA557,MCO,Orlando,08:22
+Southwest Airlines,WN417,AUS,Austin,08:25
+SkyWest Airlines,OO5653,AUS,Austin,08:25
+Southwest Airlines,WN1032,STL,Saint Louis,08:25
+SkyWest Airlines,OO4695,PDX,Portland,08:25
+US Airways,US716,PHL,Philadelphia,08:25
+SkyWest Airlines,OO2632,PHX,Phoenix,08:25
+SkyWest Airlines,OO6431,SAT,San Antonio,08:27
+United Airlines,UA788,SFO,San Francisco,08:28
+American Airlines,AA116,EWR,Newark,08:30
+Delta Air Lines,DL16,JFK,New York,08:30
+Virgin America,VX108,IAD,Washington,08:30
+SkyWest Airlines,OO6323,SAN,San Diego,08:31
+SkyWest Airlines,OO5360,MRY,Monterey,08:32
+Alaska Airlines,AS563,PDX,Portland,08:35
+Southwest Airlines,WN1982,LAS,Las Vegas,08:35
+United Airlines,UA1556,EWR,Newark,08:35
+United Airlines,UA1204,BWI,Baltimore,08:37
+United Airlines,UA1220,HNL,Honolulu,08:39
+Delta Air Lines,DL2365,HNL,Honolulu,08:40
+Hawaiian Airlines,HA1,HNL,Honolulu,08:40
+Qantas Airways,QF107,JFK,New York,08:40
+SkyWest Airlines,OO5614,DFW,Dallas,08:40
+United Airlines,UA324,IAD,Washington,08:40
+American Eagle,MQ3342,DEN,Denver,08:40
+Horizon Air,QX2474,STS,Santa Rosa,08:40
+SkyWest Airlines,OO5608,SEA,Seattle,08:41
+United Airlines,UA528,BOS,Boston,08:44
+American Airlines,AA2430,DFW,Dallas,08:45
+Southwest Airlines,WN305,DEN,Denver,08:45
+Virgin America,VX312,MCO,Orlando,08:45
+SkyWest Airlines,OO6246,FAT,Fresno,08:47
+Westjet,WS1501,YYC,Calgary,08:50
+United Airlines,UA1297,ORD,Chicago,08:55
+American Airlines,AA265,LIH,Kauai Island,08:55
+SkyWest Airlines,OO2619,MRY,Monterey,08:55
+American Airlines,AA208,MIA,Miami,09:00
+United Airlines,UA576,KOA,Kona,09:00
+Virgin America,VX874,DFW,Dallas,09:00
+US Airways,US1986,CLT,Charlotte,09:00
+Delta Air Lines,DL80,ATL,Atlanta,09:00
+SkyWest Airlines,OO4441,SAN,San Diego,09:00
+American Eagle,MQ3722,OKC,Oklahoma City,09:00
+United Airlines,UA1176,OGG,Kahului,09:00
+SkyWest Airlines,OO4481,OAK,Oakland,09:05
+American Airlines,AA76,IAD,Washington,09:05
+Southwest Airlines,WN223,BNA,Nashville,09:10
+Southwest Airlines,WN1794,SMF,Sacramento,09:10
+United Airlines,UA785,IAH,Houston,09:14
+American Airlines,AA253,OGG,Kahului,09:15
+Southwest Airlines,WN1026,TUS,Tucson,09:15
+American Eagle,MQ3152,SAN,San Diego,09:15
+American Airlines,AA244,MCO,Orlando,09:15
+United Airlines,UA856,IAD,Washington,09:17
+American Airlines,AA1200,ORD,Chicago,09:20
+Delta Air Lines,DL1806,DTW,Detroit,09:20
+Southwest Airlines,WN1476,PHX,Phoenix,09:20
+Southwest Airlines,WN3966,SJC,San Jose,09:20
+Horizon Air,QX2404,SJC,San Jose,09:25
+United Airlines,UA239,SFO,San Francisco,09:30
+SkyWest Airlines,OO5314,SBA,Santa Barbara,09:30
+Delta Air Lines,DL2323,LAS,Las Vegas,09:30
+American Airlines,AA2,JFK,New York,09:30
+Southwest Airlines,WN947,SFO,San Francisco,09:35
+Virgin America,VX935,SFO,San Francisco,09:35
+SkyWest Airlines,OO2575,ABQ,Albuquerque,09:40
+SkyWest Airlines,OO4564,SEA,Seattle,09:40
+Virgin America,VX162,EWR,Newark,09:40
+SkyWest Airlines,OO6325,SAN,San Diego,09:44
+Southwest Airlines,WN3422,MDW,Chicago,09:45
+American Airlines,AA1586,YYZ,Toronto,09:45
+American Airlines,AA2434,DFW,Dallas,09:45
+Delta Air Lines,DL962,IND,Indianapolis,09:50
+Alaska Airlines,AS268,ZIH,Ixtapa/Zihuatanejo,09:50
+Delta Air Lines,DL1462,MCO,Orlando,09:50
+Southwest Airlines,WN2964,OAK,Oakland,09:50
+Alaska Airlines,AS707,YVR,Vancouver,09:50
+Horizon Air,QX2601,LTO,Loreto,09:50
+American Eagle,MQ3615,SJC,San Jose,09:50
+Aeromexico,AM645,MEX,Mexico City,09:52
+SkyWest Airlines,OO6434,BFL,Bakersfield,09:52
+American Airlines,AA1265,CMH,Columbus,09:55
+American Airlines,AA1368,LAS,Las Vegas,09:55
+SkyWest Airlines,OO4659,SMF,Sacramento,09:59
+United Airlines,UA1166,ORD,Chicago,10:03
+United Airlines,UA1244,EWR,Newark,10:05
+US Airways,US402,PHX,Phoenix,10:05
+Southwest Airlines,WN3171,LAS,Las Vegas,10:05
+Spirit Airlines,NK730,ORD,Chicago,10:08
+SkyWest Airlines,OO6417,SMX,Santa Maria,10:10
+Alaska Airlines,AS475,SEA,Seattle,10:10
+Aeromexico,AM783,GDL,Guadalajara,10:14
+SkyWest Airlines,OO2577,EUG,Eugene,10:15
+American Airlines,AA2442,DFW,Dallas,10:15
+Virgin America,VX334,FLL,Fort Lauderdale,10:15
+SkyWest Airlines,OO4702,SLC,Salt Lake City,10:17
+Southwest Airlines,WN1191,ATL,Atlanta,10:20
+SkyWest Airlines,OO5346,CLD,San Diego,10:24
+SkyWest Airlines,OO5365,SBP,San Luis Obispo,10:26
+Delta Air Lines,DL2056,ATL,Atlanta,10:30
+Delta Air Lines,DL741,PVR,Puerto Vallarta,10:30
+Delta Air Lines,DL1170,CMH,Columbus,10:30
+Southwest Airlines,WN427,HOU,Houston,10:30
+United Airlines,UA1258,SFO,San Francisco,10:35
+American Airlines,AA1398,ORD,Chicago,10:35
+American Airlines,AA1488,MIA,Miami,10:35
+Southwest Airlines,WN176,ELP,El Paso,10:35
+Southwest Airlines,WN559,SFO,San Francisco,10:35
+Virgin America,VX232,ORD,Chicago,10:35
+SkyWest Airlines,OO5373,SBA,Santa Barbara,10:38
+Virgin America,VX406,JFK,New York,10:40
+Hawaiian Airlines,HA3,HNL,Honolulu,10:45
+United Airlines,UA458,PIT,Pittsburgh,10:49
+Delta Air Lines,DL1968,MSP,Minneapolis,10:49
+American Airlines,AA167,SFO,San Francisco,10:50
+American Airlines,AA1319,IND,Indianapolis,10:50
+American Airlines,AA237,SJD,San Jose Cabo,10:50
+Alaska Airlines,AS258,PVR,Puerto Vallarta,10:50
+SkyWest Airlines,OO2626,SAN,San Diego,10:50
+United Airlines,UA504,MSY,New Orleans,10:54
+United Airlines,UA1070,CLE,Cleveland,10:54
+JetBlue,B6124,JFK,New York,10:55
+Southwest Airlines,WN571,OAK,Oakland,10:55
+US Airways,US796,PHL,Philadelphia,10:59
+Southwest Airlines,WN1720,LAS,Las Vegas,11:00
+Southwest Airlines,WN304,DEN,Denver,11:00
+Alaska Airlines,AS455,SEA,Seattle,11:00
+Southwest Airlines,WN1814,MSY,New Orleans,11:10
+United Airlines,UA1537,DEN,Denver,11:10
+American Airlines,AA2444,DFW,Dallas,11:10
+SkyWest Airlines,OO4834,SAN,San Diego,11:10
+Virgin America,VX927,SFO,San Francisco,11:10
+Delta Air Lines,DL1888,MEM,Memphis,11:10
+SkyWest Airlines,OO4656,SJC,San Jose,11:15
+Delta Air Lines,DL121,JFK,New York,11:15
+Frontier Airlines,F9406,DEN,Denver,11:15
+United Airlines,UA1298,ORD,Chicago,11:15
+Delta Air Lines,DL1549,MSY,New Orleans,11:15
+Virgin America,VX474,LAS,Las Vegas,11:20
+Delta Air Lines,DL1455,LAS,Las Vegas,11:20
+United Airlines,UA32,NRT,Tokyo,11:20
+American Airlines,AA1307,BNA,Nashville,11:25
+United Airlines,UA1565,IAH,Houston,11:25
+Southwest Airlines,WN141,ABQ,Albuquerque,11:25
+Southwest Airlines,WN3523,SJC,San Jose,11:25
+SkyWest Airlines,OO2630,SBA,Santa Barbara,11:25
+COPA,CM473,PTY,Panama City,11:26
+Alaska Airlines,AS157,ANC,Anchorage,11:30
+SkyWest Airlines,OO4691,PDX,Portland,11:30
+Southwest Airlines,WN419,PHX,Phoenix,11:30
+SkyWest Airlines,OO4620,OAK,Oakland,11:30
+US Airways,US1954,CLT,Charlotte,11:30
+Westjet,WS1697,YVR,Vancouver,11:35
+Air Canada,AC786,YYZ,Toronto,11:35
+American Airlines,AA170,LAS,Las Vegas,11:35
+Delta Air Lines,DL1706,DTW,Detroit,11:35
+Delta Air Lines,DL1459,SLC,Salt Lake City,11:36
+United Airlines,UA1520,SFO,San Francisco,11:40
+Alaska Airlines,AS569,PDX,Portland,11:45
+Southwest Airlines,WN806,MDW,Chicago,11:45
+United Airlines,UA448,JFK,New York,11:45
+Air Canada,AC798,YUL,Montreal,11:45
+SkyWest Airlines,OO6327,SAN,San Diego,11:52
+United Airlines,UA1489,EWR,Newark,11:52
+Virgin America,VX878,DFW,Dallas,11:55
+American Airlines,AA1452,ORD,Chicago,11:55
+SkyWest Airlines,OO5557,SAT,San Antonio,12:03
+Southwest Airlines,WN268,SAT,San Antonio,12:05
+American Eagle,MQ3219,SAN,San Diego,12:05
+SkyWest Airlines,OO6235,PDX,Portland,12:05
+American Airlines,AA202,BOS,Boston,12:05
+JetBlue,B6488,BOS,Boston,12:09
+Westjet,WS1423,YEG,Edmonton,12:10
+Delta Air Lines,DL101,ATL,Atlanta,12:10
+SkyWest Airlines,OO4501,PHX,Phoenix,12:10
+Southwest Airlines,WN900,SFO,San Francisco,12:10
+Southwest Airlines,WN421,AUS,Austin,12:15
+SkyWest Airlines,OO2594,SMF,Sacramento,12:15
+Southwest Airlines,WN884,LAS,Las Vegas,12:15
+SkyWest Airlines,OO2614,RNO,Reno,12:15
+SkyWest Airlines,OO6523,LAS,Las Vegas,12:16
+Southwest Airlines,WN333,OAK,Oakland,12:20
+SkyWest Airlines,OO2639,SLC,Salt Lake City,12:25
+SkyWest Airlines,OO6458,DFW,Dallas,12:26
+American Eagle,MQ3673,DEN,Denver,12:30
+China Eastern Airlines,MU586,PVG,Shanghai,12:30
+SkyWest Airlines,OO6442,OKC,Oklahoma City,12:33
+Southwest Airlines,WN140,SMF,Sacramento,12:35
+SkyWest Airlines,OO6444,SMX,Santa Maria,12:35
+Delta Air Lines,DL283,NRT,Tokyo,12:35
+SkyWest Airlines,OO5474,CLD,San Diego,12:38
+US Airways,US437,PHX,Phoenix,12:40
+United Airlines,UA1522,IAH,Houston,12:40
+Virgin America,VX166,EWR,Newark,12:45
+ANA,NH5,NRT,Tokyo,12:45
+Southwest Airlines,WN2410,SJC,San Jose,12:45
+SkyWest Airlines,OO6379,RNO,Reno,12:45
+United Airlines,UA1225,SFO,San Francisco,12:46
+SkyWest Airlines,OO2638,PHX,Phoenix,12:50
+American Airlines,AA2452,DFW,Dallas,12:50
+Alaska Airlines,AS6,DCA,Washington,12:50
+American Airlines,AA2456,SFO,San Francisco,12:50
+United Airlines,UA1226,HNL,Honolulu,12:51
+SkyWest Airlines,OO5350,YUM,Yuma,12:54
+Virgin America,VX783,SEA,Seattle,12:55
+Delta Air Lines,DL2168,MSP,Minneapolis,12:55
+American Airlines,AA342,AUS,Austin,12:55
+Southwest Airlines,WN1916,PHX,Phoenix,12:55
+Virgin America,VX536,SJC,San Jose,12:55
+Cathay Pacific Airways,CX885,HKG,Hong Kong,12:55
+Frontier Airlines,F9410,DEN,Denver,13:00
+United Airlines,UA765,JFK,New York,13:00
+Southwest Airlines,WN3427,BWI,Baltimore,13:00
+United Airlines,UA317,DEN,Denver,13:00
+SkyWest Airlines,OO4826,SJC,San Jose,13:00
+Delta Air Lines,DL2204,SLC,Salt Lake City,13:00
+Korean Air Lines,KE18,ICN,Seoul,13:00
+SkyWest Airlines,OO5362,SBA,Santa Barbara,13:05
+Airtran,FL343,ATL,Atlanta,13:05
+SkyWest Airlines,OO6474,ABQ,Albuquerque,13:05
+United Airlines,UA198,PVG,Shanghai,13:05
+Southwest Airlines,WN769,STL,Saint Louis,13:05
+United Airlines,UA1600,ORD,Chicago,13:08
+Asiana Airlines,OZ201,ICN,Seoul,13:10
+Air Tahiti Nui,TN8,CDG,Paris,13:10
+JAL,JL61,NRT,Tokyo,13:10
+Virgin America,VX366,BOS,Boston,13:10
+Delta Air Lines,DL1577,LAS,Las Vegas,13:10
+SkyWest Airlines,OO4496,OAK,Oakland,13:10
+United Airlines,UA653,IAD,Washington,13:14
+El Al,LY6,TLV,Tel Aviv-Yafo,13:15
+US Airways,US1812,CLT,Charlotte,13:15
+SkyWest Airlines,OO5371,SBP,San Luis Obispo,13:19
+Southwest Airlines,WN354,LAS,Las Vegas,13:20
+Air China,CA988,PEK,Beijing,13:20
+JetBlue,B6224,JFK,New York,13:22
+Southwest Airlines,WN228,MCI,Kansas City,13:25
+American Airlines,AA32,JFK,New York,13:25
+American Airlines,AA2246,LAS,Las Vegas,13:25
+Southwest Airlines,WN398,OAK,Oakland,13:25
+American Eagle,MQ3124,XNA,Fayetteville,13:30
+Southwest Airlines,WN3521,SFO,San Francisco,13:30
+SkyWest Airlines,OO2588,SBA,Santa Barbara,13:30
+Delta Air Lines,DL2262,JFK,New York,13:30
+American Airlines,AA252,MIA,Miami,13:30
+Virgin America,VX929,SFO,San Francisco,13:30
+Delta Air Lines,DL1654,ATL,Atlanta,13:30
+American Airlines,AA1518,YYZ,Toronto,13:30
+American Airlines,AA2448,DFW,Dallas,13:30
+Virgin America,VX412,JFK,New York,13:35
+SkyWest Airlines,OO6333,SAN,San Diego,13:36
+American Eagle,MQ3530,IAH,Houston,13:40
+Air Canada,AC792,YYZ,Toronto,13:40
+Lan Airlines,LA601,LIM,Lima,13:40
+United Airlines,UA1130,OGG,Kahului,13:40
+Southwest Airlines,WN730,SJC,San Jose,13:40
+SkyWest Airlines,OO6522,PHX,Phoenix,13:42
+SkyWest Airlines,OO6452,TUS,Tucson,13:45
+Southwest Airlines,WN751,DEN,Denver,13:45
+TACA,TA523,SAL,San Salvador,13:50
+Southwest Airlines,WN1286,HOU,Houston,13:55
+American Airlines,AA1624,ORD,Chicago,13:55
+KLM,KL602,AMS,Amsterdam,13:55
+United Airlines,UA1210,IAH,Houston,13:56
+United Airlines,UA297,LIH,Kauai Island,13:59
+US Airways,US766,PHL,Philadelphia,13:59
+Aerolitoral,5D2201,HMO,Hermosillo,14:03
+United Airlines,UA1737,DEN,Denver,14:06
+United Airlines,UA444,SFO,San Francisco,14:07
+Aeromexico,AM647,MEX,Mexico City,14:07
+SkyWest Airlines,OO4449,PHX,Phoenix,14:10
+United Airlines,UA1735,EWR,Newark,14:10
+United Airlines,UA1679,LAS,Las Vegas,14:10
+Alaska Airlines,AS703,YVR,Vancouver,14:10
+SkyWest Airlines,OO4800,SMF,Sacramento,14:10
+American Airlines,AA144,IAD,Washington,14:15
+Southwest Airlines,WN146,SLC,Salt Lake City,14:15
+SkyWest Airlines,OO6302,PSP,Palm Springs,14:20
+Virgin America,VX126,PHL,Philadelphia,14:20
+American Airlines,AA22,JFK,New York,14:25
+American Airlines,AA183,PVG,Shanghai,14:25
+SkyWest Airlines,OO4712,PDX,Portland,14:30
+SkyWest Airlines,OO2613,FAT,Fresno,14:30
+SkyWest Airlines,OO2598,TUS,Tucson,14:30
+JetBlue,B6700,FLL,Fort Lauderdale,14:33
+Southwest Airlines,WN2813,TUS,Tucson,14:35
+Delta Air Lines,DL1299,KOA,Kona,14:35
+SkyWest Airlines,OO6335,SAN,San Diego,14:38
+Southwest Airlines,WN181,LAS,Las Vegas,14:40
+SkyWest Airlines,OO2620,SAN,San Diego,14:40
+Delta Air Lines,DL1559,HNL,Honolulu,14:45
+SkyWest Airlines,OO4450,SAN,San Diego,14:45
+Delta Air Lines,DL1554,ATL,Atlanta,14:45
+Alaska Airlines,AS461,SEA,Seattle,14:50
+American Eagle,MQ3702,SLC,Salt Lake City,14:55
+SkyWest Airlines,OO4693,SEA,Seattle,14:55
+SkyWest Airlines,OO6483,YVR,Vancouver,14:58
+Delta Air Lines,DL1433,LAS,Las Vegas,15:00
+Air Canada,AC555,YVR,Vancouver,15:00
+Southwest Airlines,WN1753,OAK,Oakland,15:05
+Virgin America,VX486,LAS,Las Vegas,15:05
+Lufthansa,LH457,FRA,Frankfurt,15:05
+American Airlines,AA1014,LAS,Las Vegas,15:05
+Southwest Airlines,WN256,DEN,Denver,15:05
+Southwest Airlines,WN321,BNA,Nashville,15:10
+SkyWest Airlines,OO5294,CLD,San Diego,15:11
+Delta Air Lines,DL1668,MSP,Minneapolis,15:15
+Virgin America,VX416,JFK,New York,15:20
+Southwest Airlines,WN285,PHX,Phoenix,15:20
+SkyWest Airlines,OO6510,SMF,Sacramento,15:26
+Spirit Airlines,NK720,LAS,Las Vegas,15:30
+American Airlines,AA1632,ORD,Chicago,15:30
+Southwest Airlines,WN387,RNO,Reno,15:30
+SkyWest Airlines,OO4642,OAK,Oakland,15:30
+SkyWest Airlines,OO6519,SJC,San Jose,15:33
+Southwest Airlines,WN1069,SFO,San Francisco,15:35
+Southwest Airlines,WN198,SJC,San Jose,15:35
+British Airways,BA278,LHR,London,15:35
+American Airlines,AA209,SFO,San Francisco,15:35
+SkyWest Airlines,OO2576,ELP,El Paso,15:40
+American Eagle,MQ2785,SJC,San Jose,15:40
+Virgin America,VX933,SFO,San Francisco,15:40
+SkyWest Airlines,OO5355,SBA,Santa Barbara,15:40
+SkyWest Airlines,OO2624,RNO,Reno,15:40
+JetBlue,B6424,JFK,New York,15:44
+Air France,AF65,CDG,Paris,15:45
+Singapore Airlines,SQ11,NRT,Tokyo,15:45
+SkyWest Airlines,OO5326,SBP,San Luis Obispo,15:49
+United Airlines,UA1197,SFO,San Francisco,15:51
+United Airlines,UA1433,ORD,Chicago,15:53
+American Eagle,MQ3733,DEN,Denver,15:55
+Air Canada,AC796,YYZ,Toronto,15:55
+United Airlines,UA703,EWR,Newark,15:58
+United Airlines,UA1228,HNL,Honolulu,15:58
+SkyWest Airlines,OO2602,ABQ,Albuquerque,16:05
+United Airlines,UA233,JFK,New York,16:05
+SkyWest Airlines,OO2611,SAN,San Diego,16:05
+SkyWest Airlines,OO6330,FAT,Fresno,16:06
+SkyWest Airlines,OO5338,MRY,Monterey,16:08
+Southwest Airlines,WN1781,SMF,Sacramento,16:10
+SkyWest Airlines,OO2643,PHX,Phoenix,16:10
+Alaska Airlines,AS451,SEA,Seattle,16:10
+American Airlines,AA2460,DFW,Dallas,16:15
+Southwest Airlines,WN460,MDW,Chicago,16:15
+SkyWest Airlines,OO4503,SJC,San Jose,16:15
+SkyWest Airlines,OO6338,SAN,San Diego,16:18
+US Airways,US899,PHX,Phoenix,16:20
+Southwest Airlines,WN3702,PHX,Phoenix,16:20
+American Airlines,AA1686,STL,Saint Louis,16:20
+SkyWest Airlines,OO5405,CLD,San Diego,16:26
+American Airlines,AA297,HNL,Honolulu,16:30
+Air Tahiti Nui,TN7,PPT,Papeete,16:30
+American Airlines,AA1278,ORD,Chicago,16:30
+United Airlines,UA1231,DEN,Denver,16:35
+United Airlines,UA210,IAD,Washington,16:35
+Southwest Airlines,WN1089,OAK,Oakland,16:35
+Delta Air Lines,DL1735,LIH,Kauai Island,16:38
+SkyWest Airlines,OO6446,SMX,Santa Maria,16:40
+SkyWest Airlines,OO2589,MRY,Monterey,16:40
+United Airlines,UA1169,SFO,San Francisco,16:41
+Air New Zealand,NZ2,LHR,London,16:45
+Alaska Airlines,AS561,PDX,Portland,16:50
+Virgin America,VX236,ORD,Chicago,16:55
+Virgin America,VX165,SJC,San Jose,16:55
+Westjet,WS1511,YYC,Calgary,16:55
+SkyWest Airlines,OO6367,PDX,Portland,16:55
+SkyWest Airlines,OO4767,SMF,Sacramento,16:56
+Delta Air Lines,DL2004,SLC,Salt Lake City,16:58
+United Airlines,UA1402,IAH,Houston,16:59
+Virgin America,VX882,DFW,Dallas,16:59
+Virgin Atlantic Airways,VS8,LHR,London,16:59
+Delta Air Lines,DL2460,SEA,Seattle,17:00
+Southwest Airlines,WN1097,ELP,El Paso,17:00
+SkyWest Airlines,OO6255,COS,Colorado Springs,17:00
+SkyWest Airlines,OO6339,SAN,San Diego,17:05
+Southwest Airlines,WN952,SFO,San Francisco,17:05
+Southwest Airlines,WN2356,LAS,Las Vegas,17:05
+Virgin America,VX795,SEA,Seattle,17:05
+Delta Air Lines,DL934,BNA,Nashville,17:10
+American Airlines,AA1588,AUS,Austin,17:10
+EVA Air,BR11,TPE,Taipei,17:10
+SkyWest Airlines,OO2617,FAT,Fresno,17:10
+SkyWest Airlines,OO2640,SMF,Sacramento,17:10
+SkyWest Airlines,OO4502,LAS,Las Vegas,17:10
+SkyWest Airlines,OO4532,OAK,Oakland,17:15
+American Airlines,AA247,KOA,Kona,17:15
+SkyWest Airlines,OO5391,YUM,Yuma,17:17
+Southwest Airlines,WN3132,SJC,San Jose,17:25
+Horizon Air,QX2076,SJC,San Jose,17:25
+American Airlines,AA161,OGG,Kahului,17:30
+Southwest Airlines,WN283,DEN,Denver,17:30
+Southwest Airlines,WN1815,MDW,Chicago,17:30
+Sun Country Airlines,SY426,MSP,Minneapolis,17:30
+American Airlines,AA952,LAS,Las Vegas,17:30
+Alaska Airlines,AS453,SEA,Seattle,17:30
+Southwest Airlines,WN169,OAK,Oakland,17:35
+SkyWest Airlines,OO6309,PSP,Palm Springs,17:39
+American Airlines,AA2462,DFW,Dallas,17:40
+SkyWest Airlines,OO2590,SAN,San Diego,17:40
+United Airlines,UA1538,SFO,San Francisco,17:40
+SkyWest Airlines,OO6371,SEA,Seattle,17:42
+Delta Air Lines,DL1149,HNL,Honolulu,17:44
+British Airways,BA282,LHR,London,17:45
+American Airlines,AA1414,ORD,Chicago,17:45
+Southwest Airlines,WN1627,PHX,Phoenix,17:45
+Delta Air Lines,DL1219,OGG,Kahului,17:45
+United Airlines,UA1077,MEX,Mexico City,17:48
+US Airways,US436,PHX,Phoenix,17:50
+SkyWest Airlines,OO4796,PHX,Phoenix,17:55
+SkyWest Airlines,OO4688,SAN,San Diego,17:59
+Southwest Airlines,WN1716,SMF,Sacramento,18:05
+Hawaiian Airlines,HA9,HNL,Honolulu,18:05
+American Airlines,AA219,SFO,San Francisco,18:05
+Virgin America,VX941,SFO,San Francisco,18:10
+Spirit Airlines,NK868,DFW,Dallas,18:10
+Alaska Airlines,AS559,PDX,Portland,18:10
+SkyWest Airlines,OO6528,PHX,Phoenix,18:12
+Delta Air Lines,DL1820,MEM,Memphis,18:12
+American Airlines,AA267,HNL,Honolulu,18:15
+Southwest Airlines,WN429,TUS,Tucson,18:20
+Southwest Airlines,WN908,MCI,Kansas City,18:25
+American Eagle,MQ3634,OKC,Oklahoma City,18:25
+SkyWest Airlines,OO6328,BOI,Boise,18:27
+SkyWest Airlines,OO4686,PDX,Portland,18:30
+Southwest Airlines,WN1186,SFO,San Francisco,18:30
+SkyWest Airlines,OO5358,SBA,Santa Barbara,18:31
+Delta Air Lines,DL2228,MSP,Minneapolis,18:31
+United Airlines,UA746,SFO,San Francisco,18:32
+SkyWest Airlines,OO2628,SLC,Salt Lake City,18:35
+Southwest Airlines,WN457,LAS,Las Vegas,18:40
+SkyWest Airlines,OO2591,SJC,San Jose,18:45
+United Airlines,UA1694,IAH,Houston,18:45
+Southwest Airlines,WN299,OAK,Oakland,18:45
+SkyWest Airlines,OO6296,DFW,Dallas,18:45
+SkyWest Airlines,OO5513,ICT,Wichita,18:50
+Southwest Airlines,WN3587,SJC,San Jose,18:50
+Virgin America,VX490,LAS,Las Vegas,18:50
+SkyWest Airlines,OO6295,FAT,Fresno,18:54
+Alaska Airlines,AS473,SEA,Seattle,18:55
+SkyWest Airlines,OO6341,SAN,San Diego,18:55
+Lufthansa,LH451,FRA,Frankfurt,19:00
+American Airlines,AA2468,DFW,Dallas,19:00
+SkyWest Airlines,OO4824,SEA,Seattle,19:00
+Southwest Airlines,WN2184,HOU,Houston,19:15
+SkyWest Airlines,OO6445,TUS,Tucson,19:17
+SkyWest Airlines,OO5306,CLD,San Diego,19:20
+United Airlines,UA841,SFO,San Francisco,19:20
+SkyWest Airlines,OO6310,PSP,Palm Springs,19:22
+Southwest Airlines,WN1289,DEN,Denver,19:30
+SWISS,LX41,ZRH,Zurich,19:30
+SkyWest Airlines,OO4646,OAK,Oakland,19:30
+SkyWest Airlines,OO2610,FAT,Fresno,19:30
+Alaska Airlines,AS565,PDX,Portland,19:40
+United Airlines,UA934,LHR,London,19:40
+Virgin America,VX797,SEA,Seattle,19:40
+Horizon Air,QX2472,STS,Santa Rosa,19:40
+SkyWest Airlines,OO6496,COS,Colorado Springs,19:42
+SkyWest Airlines,OO5597,LAS,Las Vegas,19:44
+Virgin America,VX945,SFO,San Francisco,19:45
+Southwest Airlines,WN1009,SMF,Sacramento,19:45
+American Eagle,MQ3650,IAH,Houston,19:45
+Southwest Airlines,WN2766,ABQ,Albuquerque,19:45
+Alaska Airlines,AS469,SEA,Seattle,19:50
+Westjet,WS1699,YVR,Vancouver,19:50
+American Airlines,AA136,LHR,London,19:50
+Air Canada,AC557,YVR,Vancouver,19:50
+SkyWest Airlines,OO4657,SJC,San Jose,19:50
+Southwest Airlines,WN186,OAK,Oakland,19:55
+Southwest Airlines,WN194,SFO,San Francisco,19:55
+SkyWest Airlines,OO5372,SBA,Santa Barbara,19:55
+SkyWest Airlines,OO2637,TUS,Tucson,19:55
+American Airlines,AA2465,SFO,San Francisco,19:55
+SkyWest Airlines,OO4670,SMF,Sacramento,20:01
+Southwest Airlines,WN3704,RNO,Reno,20:05
+Southwest Airlines,WN334,PHX,Phoenix,20:05
+SkyWest Airlines,OO2608,SMF,Sacramento,20:05
+Southwest Airlines,WN1178,SLC,Salt Lake City,20:10
+American Airlines,AA182,LAS,Las Vegas,20:10
+SkyWest Airlines,OO6470,SLC,Salt Lake City,20:10
+Southwest Airlines,WN2183,LAS,Las Vegas,20:15
+SkyWest Airlines,OO2644,RDM,Redmond,20:15
+SkyWest Airlines,OO5399,SBP,San Luis Obispo,20:20
+SkyWest Airlines,OO2584,EUG,Eugene,20:20
+Horizon Air,QX2420,MFR,Medford,20:20
+SkyWest Airlines,OO4810,GEG,Spokane,20:25
+American Airlines,AA10,JFK,New York,20:45
+SkyWest Airlines,OO2609,MRY,Monterey,20:45
+Virgin America,VX947,SFO,San Francisco,20:45
+Alaska Airlines,AS701,YVR,Vancouver,20:50
+Southwest Airlines,WN584,SMF,Sacramento,20:50
+JetBlue,B6524,JFK,New York,20:50
+Southwest Airlines,WN529,OAK,Oakland,20:55
+Virgin America,VX544,SJC,San Jose,20:55
+Southwest Airlines,WN171,SJC,San Jose,20:55
+SkyWest Airlines,OO6511,FAT,Fresno,20:56
+SkyWest Airlines,OO4640,PHX,Phoenix,21:00
+Spirit Airlines,NK310,FLL,Fort Lauderdale,21:00
+Lufthansa,LH453,MUC,Munich,21:05
+American Eagle,MQ3708,ABQ,Albuquerque,21:05
+SkyWest Airlines,OO2582,ELP,El Paso,21:05
+Delta Air Lines,DL2462,LAS,Las Vegas,21:05
+SkyWest Airlines,OO5368,YUM,Yuma,21:15
+Delta Air Lines,DL1162,JFK,New York,21:15
+Southwest Airlines,WN3947,LAS,Las Vegas,21:20
+American Eagle,MQ3677,DEN,Denver,21:25
+SkyWest Airlines,OO2649,PHX,Phoenix,21:25
+British Airways,BA268,LHR,London,21:30
+SkyWest Airlines,OO4506,SAN,San Diego,21:30
+American Airlines,AA1178,MIA,Miami,21:35
+Southwest Airlines,WN297,SFO,San Francisco,21:35
+American Airlines,AA192,BOS,Boston,21:40
+SkyWest Airlines,OO2623,SBA,Santa Barbara,21:40
+American Eagle,MQ2801,SJC,San Jose,21:45
+Air New Zealand,NZ1,AKL,Auckland,21:45
+United Airlines,UA781,EWR,Newark,21:50
+American Airlines,AA204,MCO,Orlando,21:50
+Virgin America,VX338,FLL,Fort Lauderdale,21:55
+SkyWest Airlines,OO6283,IYK,Inyokern,21:55
+SkyWest Airlines,OO5352,MRY,Monterey,22:09
+Air Canada,AC788,YYZ,Toronto,22:10
+Qantas Airways,QF12,SYD,Sydney,22:10
+SkyWest Airlines,OO6317,SEA,Seattle,22:10
+Delta Air Lines,DL1566,RDU,Raleigh/Durham,22:15
+US Airways,US782,PHL,Philadelphia,22:15
+SkyWest Airlines,OO2592,SAN,San Diego,22:20
+SkyWest Airlines,OO6433,FAT,Fresno,22:20
+SkyWest Airlines,OO5477,CLD,San Diego,22:25
+SkyWest Airlines,OO6311,PSP,Palm Springs,22:26
+United Airlines,UA839,SYD,Sydney,22:30
+Spirit Airlines,NK709,DTW,Detroit,22:30
+Air New Zealand,NZ5,AKL,Auckland,22:30
+Polar Air Cargo,PO997,ICN,Seoul,22:35
+United Airlines,UA263,SFO,San Francisco,22:36
+United Airlines,UA590,JFK,New York,22:38
+American Airlines,AA258,MIA,Miami,22:40
+Delta Air Lines,DL17,SYD,Sydney,22:40
+Delta Air Lines,DL1354,ATL,Atlanta,22:40
+American Airlines,AA74,IAD,Washington,22:40
+United Airlines,UA535,LAS,Las Vegas,22:41
+US Airways,US2028,CLT,Charlotte,22:45
+SkyWest Airlines,OO6479,BFL,Bakersfield,22:45
+United Airlines,UA1412,IAD,Washington,22:45
+SkyWest Airlines,OO6462,SMF,Sacramento,22:46
+Philippine Airlines,PR103,MNL,Manila,22:50
+China Southern Airlines,CZ450,YVR,Vancouver,22:50
+American Airlines,AA1360,BNA,Nashville,22:50
+SkyWest Airlines,OO5375,SBP,San Luis Obispo,22:51
+Air Canada,AC774,YUL,Montreal,22:55
+SkyWest Airlines,OO6344,SAN,San Diego,22:59
+American Airlines,AA1062,ORD,Chicago,23:05
+Delta Air Lines,DL1406,DTW,Detroit,23:05
+United Airlines,UA1218,ORD,Chicago,23:05
+United Airlines,UA1003,CLE,Cleveland,23:10
+SkyWest Airlines,OO5383,SBA,Santa Barbara,23:10
+Aeromexico,AM469,MEX,Mexico City,23:20
+American Airlines,AA30,JFK,New York,23:20
+United Airlines,UA1038,ORD,Chicago,23:24
+Delta Air Lines,DL1262,JFK,New York,23:30
+Korean Air Lines,KE12,ICN,Seoul,23:30
+Air Pacific,FJ811,NAN,Nadi,23:30
+Qantas Airways,QF94,MEL,Melbourne,23:30
+China Southern Airlines,CZ328,CAN,Guangzhou,23:30
+Virgin America,VX170,EWR,Newark,23:35
+COPA,CM303,PTY,Panama City,23:39
+JetBlue,B6688,BOS,Boston,23:39
+Spirit Airlines,NK216,IAH,Houston,23:40
+Air Tahiti Nui,TN101,PPT,Papeete,23:40
+Virgin America,VX420,JFK,New York,23:40
+United Airlines,UA430,IAH,Houston,23:42
+Qantas Airways,QF16,BNE,Brisbane,23:45
+United Airlines,UA1445,EWR,Newark,23:45
+Air France,AF76,PPT,Papeete,23:45
+Airtran,FL39,ATL,Atlanta,23:49
+Qantas Airways,QF108,SYD,Sydney,23:50
+Korean Air Lines,KE62,ICN,Seoul,23:50
+American Airlines,AA1358,BDL,Hartford,23:55
+Cathay Pacific Airways,CX883,HKG,Hong Kong,23:55
+Aerounion,6R301,GDL,Guadalajara,23:55
+Spirit Airlines,NK732,ORD,Chicago,23:55
+Delta Air Lines,DL1254,ATL,Atlanta,23:55
